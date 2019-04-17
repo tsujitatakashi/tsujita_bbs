@@ -1,0 +1,95 @@
+
+li{
+	list-style:none;
+}
+
+.header{
+	background-color:#B0E0E6;
+	height:90px;
+}
+
+.header-logo{
+	font-size:36px;
+	float:left;
+	padding:20px 40px;
+}
+
+.header-list li{
+	float:right;
+	padding:33px 30px;
+}
+
+.main{
+	padding:100px 80px;
+}
+
+.copy-container h1{
+	font-size:100px;
+}
+
+.copy-container h2{
+	font-size:50px;
+}
+
+.copy-container span{
+	color:#FF9900;
+}
+
+.board{
+	
+}
+
+.tablename{
+	width:120px;
+}
+
+.tableday p{
+	width:95px;
+}
+
+.tabletext p{
+	width:900px;
+	word-wrap:break-all;
+}
+
+.footer{
+	background-color:#B0E0E6;
+	height:90px;
+}
+
+.footer-logo{
+	font-size:36px;
+	float:left;
+	padding:20px 40px;
+}
+
+.footer-list{
+	
+}
+
+.footer-list li{
+	float:right;
+	padding:33px 30px;
+}
+
+.table{
+	width:70%;
+}
+
+.table textarea{
+	width:99%;
+}
+
+.toTop {
+	margin-top: 40px;
+	display: inline-block;
+	background: #0bd;
+	padding: 15px;
+	color: #fff;
+	cursor: pointer;
+}
+
+body {
+	font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",Meiryo,"メイリオ",Helvetica,Sans-Serif;
+}
+
